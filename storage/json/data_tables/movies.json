@@ -1,0 +1,104 @@
+{
+    "movies": [
+        {
+            "title": "Psy",
+            "type": "action",
+            "cover": "Psy Cover",
+            "description": "some description...",
+            "country_of_production": "Poland"
+        },
+        {
+            "title": "Zielona Mila",
+            "type": "dramma",
+            "cover": "Zielona Mila Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Forest Gump",
+            "type": ["dramma","comedy"],
+            "cover": "Forest Gump Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Leon Zawodowiec",
+            "type": "action",
+            "cover": "Leon Zawodowiec Cover",
+            "description": "some description...",
+            "country_of_production": "France"
+        },
+        {
+            "title": "Matrix",
+            "type": ["action", "science-fiction"],
+            "cover": "Matrix Cover",
+            "description": "some description...",
+            "country_of_production": "Australia/Usa"
+        },
+        {
+            "title": "Kochaj Albo Rzuć",
+            "type": "comedy",
+            "cover": "Kochaj Albo Rzuć Cover",
+            "description": "some description...",
+            "country_of_production": "Poland"
+        },
+        {
+            "title": "Avatar",
+            "type": "science-fiction",
+            "cover": "Avatar Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Kochaj Albo Rzuć",
+            "type": "action",
+            "cover": "Szeregowiec Ryan Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Titanic",
+            "type": "dramma",
+            "cover": "Titanic Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Pulp Fiction",
+            "type": "action",
+            "cover": "Pulp Fiction Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Seks Misja",
+            "type": "comedy",
+            "cover": "Seks Misja Cover",
+            "description": "some description...",
+            "country_of_production": "Poland"
+        },
+        {
+            "title": "Dzień świra",
+            "type": "comedy",
+            "cover": "Dzień świra Cover",
+            "description": "some description...",
+            "country_of_production": "Poland"
+        },
+        {
+            "title": "Django",
+            "type": "western",
+            "cover": "Django Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        },
+        {
+            "title": "Stowarzyszenie Umarłych Poetów",
+            "type": "dramma",
+            "cover": "Stowarzyszenie Umarłych Poetów Cover",
+            "description": "some description...",
+            "country_of_production": "Usa"
+        }
+    ]
+}
+
+

@@ -1,0 +1,31 @@
+{
+    "genres": [
+        {
+            "type": "commedy"
+        },
+        {
+            "type": "dramma"
+        },
+        {
+            "type": "horror"
+        },
+        {
+            "type": "fantasy"
+        },
+        {
+            "type": "action"
+        },
+        {
+            "type": "romance"
+        },
+        {
+            "type": "thiller"
+        },
+        {
+            "type": "western"
+        },
+        {
+            "type": "science-fiction"
+        }
+    ]
+}
