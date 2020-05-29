@@ -39,7 +39,7 @@ class MoviesApiController extends Controller
         $insertMoviesRelationshipTables->process($request);
         $uploadCoverForMovie->process($request);
         return response()->json([
-            "message" => "records inserted successfully"
+            'message' => 'records inserted successfully'
         ], 200);
     }
 
@@ -48,7 +48,7 @@ class MoviesApiController extends Controller
         // when updating you should field "type" off
         $updateMoviesTable->process($request, $id);
         return response()->json([
-            "message" => "records updated successfully"
+            'message' => 'records updated successfully'
         ], 200);
     }
 
@@ -57,7 +57,7 @@ class MoviesApiController extends Controller
         // when deleting you should field "type" off
         $deleteMoviesTable->process($id);
         return response()->json([
-            "message" => "records deleted successfully"
+            'message' => 'records deleted successfully'
         ], 202);
     }
 
