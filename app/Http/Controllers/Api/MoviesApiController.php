@@ -58,7 +58,7 @@ class MoviesApiController extends Controller
         $deleteMoviesTable->process($id);
         return response()->json([
             'message' => 'records deleted successfully'
-        ], 202);
+        ], 200);
     }
 
     public function search(Request $request, SearchMoviesTable $searchMoviesTable)
